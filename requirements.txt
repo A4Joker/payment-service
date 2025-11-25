@@ -1,0 +1,1 @@
+SQLAlchemy==2.0.23\nrequests==2.31.0\n
